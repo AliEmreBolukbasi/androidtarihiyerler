@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">TarihiYerlerBalıkesir</string>
+    <string-array name="id">
+        <item>img</item>
+        <item>txtbaslik</item>
+        <item>txtaciklama</item>
+        <item>txttarih</item>
+        <item>img1</item>
+        <item>txtbaslik1</item>
+        <item>txtaciklama1</item>
+        <item>txttarih1</item>
+
+
+    </string-array>
+    <string-array name="yeradlari">
+        <item>KAZ DAĞLARI MİLLİ PARKI</item>
+        <item>KAZ DAĞI MÜZESİ</item>
+        <item>HASAN BOĞULDU</item>
+        <item>SIDIKA ERKE MÜZESİ</item>
+        <item>TAHTA KUŞLAR MÜZESİ</item>
+        <item>ADRAMYTTEİON ANTİK KENTİ</item>
+    </string-array>
+
+    <string-array name="txttarih">
+        <item>TARİH : MÖ 2000</item>
+        <item>TARİH : 14 Kasım 2015</item>
+        <item></item>
+        <item>TARİH : 2001</item>
+        <item>TARİH : 1992</item>
+        <item>TARİH : MÖ 6.YY</item>
+
+    </string-array>
+
+    <string-array name="yeraciklama">
+        <item>Balıkesir ili, Edremit ilçesi sınırlarında, Edremit Körfezi nin kuzeyinde bulunmaktadır. Homeros İlyada sında İda Dağı (Kazdağı) için Bol pınarlı vahşi hayvanlar anası" diye bahsetmektedir. Kazdağı nın her yerinden kaynaklar çıkmaktadır. 1500 m. rakımda dahi yaz kış suyu olan kaynaklar mevcuttur. Edremit, Akçay ve Altınoluk un buz gibi soğuk ve bol içme ve kullanma suyu Kazdağı nın eriyen kar sularıdır. Kazdağları ndan gelen orman havası ile denizin iyotlu ve oksijen miktarı yüksek havası birleşince Altınoluk Şahin Deresi Boğazı civarı oksijen çadırı şeklinde ifade edilmektedir. Dünyanın oksijen bolluğu yönünden ilk üç yerinden biri olduğu tespit edilmiştir. </item>
+        <item>300 metrekare kapalı alanı, 2 farklı salon ve hediyelik eşya dükkanı, kafeteryası, 50 kişilik konferans salonundan oluşan Galeride, 8 dakikalık Kazdağları ve bölge tanıtım filmi, İda dağı Mitosları, Troya ve Antandros, Kuzey ege Antik Kentleri, Antik dönemlere ait sikkeler, vazolar ve terrakotalar, Fatih in İstanbul un fethi sırasında Toroslardan getirdiği Tahtacı Türkmenleri, Yörükler ve Muhacırlar, Kazdağı Milli Parkı, Kazdağı Endemik Bitkileri ve Faunası, Hasanboğuldu, Sutüven Şelalesi ve Sarıkız Efsanesi, Bölgedeki eski zeytinyağı fabrikaları ve zeytincilik, eski Edremit ve Körfez fotoğrafları ve belgeleri, Mustafa Kemal Atatürk ün Edremit ziyaretleri ve Atatürk ün balmumu heykeli ve daha onlarcası sergilenmektedir</item>
+        <item>Akçay- Altınoluk yolu üzerinde Kazdağları Milli Parkı sınırları içerisinde yer alan Hasan Boğuldu Göleti, yemyeşil doğayla çevrili bir alanda ziyaretçilerine muhteşem bir nefes alanı sunmaktadır. Yaz aylarında serinlemek isteyen ziyaretçilerin kendini buz gibi sularına bıraktığı bu gölette aynı zamanda bir piknik alanı bulunmaktadır. Göletin isminin böyle olması ise bir efsaneye dayanmaktadır.</item>
+        <item>Edremit ilçesinde bulunan bir müzedir. Balıkesir Kuvayı Milliye Müzesi Müdürlüğüne bağlıdır. Edremit Belediyesi tarafından kurulmuştur. Müzede Kuvâyı Milliye odası, geleneksel Türk ev adaları,el yapımı eserler, eski silahlar sergilenmektedir.Müzede antik çağlara dayanan herhangi bir eser bulunmamakla beraber var olan eserler de sayı bakımından oldukça azdır.Zemin kattaki Kuvayi Milliye odası, bir idari oda ve hanay tabir edilen 120 m2 lik geniş salon kültürel amaçlı kullanılmak üzere düzenlenmiştir. Üst katta baş oda ve sofa bulunmaktadır. Odalarda 18. yüzyıl ve 19. yüzyıl döneminin Edremit ev yaşamına ilişkin geleneksel el sanatları ile bezenmiş ev eşyası giysi ve günlük yaşamını yansıtan eşya sergilenmektedir.</item>
+        <item>Geleneklerine bağlı, güler yüzlü, misafirperver ve aydın insanların yaşadığı Tahtakuşların hemen girişinde daha önce belki de benzerini hiç görmediğiniz ilginç bir geleri karşılıyor sizi.Şaman kültürünün sembollerini taşıyan eşyalarla bezeli Tahtakuşlar Alibey Kudar Etnografya Galerisi, geleneksel Türkmen giysilerinden, el yapımı yün torbalara, çocuk yelekleri ve günlük yaşamdan farklı objelere kadar engin bir koleksiyona sahip.</item>
+        <item>Adrmytteion antik şehri bölgesindeki 1950 ve 1960 larda konut yapımı sebebiyle oluşan yıkıma karşın hakkında erken bilgi sahibi olunan bölgenin önemli antik şehirlerinden biridir. Antik çağ tarihçilerinden özellikle Strabon, sonrasında Heredot ve Stephanos Byzantinosun eserlerinde görkemli yerleşimleri bahis konusu edilen bölgede odak noktasını Adramytteion şehri oluşturuyordu. Bugünkü Ören bölgesinde kurulu olan eski şehrin önemli bir liman şehri olduğu antik çağ tarihçileri tarafından vurgulanmaktadır. Şehrin kuruluş tarihi ile ilgili çeşitli antik bilgiler ve savlar vardır.</item>
+    </string-array>
+
+</resources>
